@@ -1,7 +1,7 @@
 # Gitcache
 
 [![License](https://img.shields.io/badge/license-Public%20Domain-blue.svg)](https://unlicense.org)
-[![Compatibility](https://img.shields.io/badge/rust-1.88%2B-blue)](https://endoflife.date/rust)
+[![Compatibility](https://img.shields.io/badge/rust-1.91%2B-blue)](https://endoflife.date/rust)
 [![Package on Crates.io](https://img.shields.io/crates/v/gitcache)](https://crates.io/crates/gitcache)
 [![Documentation](https://img.shields.io/docsrs/gitcache?label=docs.rs)](https://docs.rs/gitcache)
 
@@ -32,7 +32,7 @@
 
 ## 🛠️ Prerequisites
 
-- [Rust] 1.88+
+- [Rust] 1.91+
 
 ## ⬇️ Installation
 

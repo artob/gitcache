@@ -5,7 +5,7 @@ name = "gitcache"
 version = "0.0.0"
 authors = ["Arto Bendiken"]
 edition = "2024"
-rust-version = "1.88"
+rust-version = "1.91"
 description = "Gitcache mirrors Git repositories into a deduped pooled object store on top of Bitcache content-addressable storage."
 #documentation = "https://docs.rs/gitcache"
 readme = true
@@ -34,6 +34,7 @@ interops = ["serde"]
 serde = ["dep:serde", "alloc"]
 
 [dependencies]
+bitcache = { version = "0.0.5", default-features = false }
 derive_more = { version = "2", default-features = false, features = ["display", "from_str"] }
 thiserror = { version = "2", default-features = false }
 
