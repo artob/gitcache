@@ -4,7 +4,7 @@ require 'distrib/ruby/gemspec'
 
 Distrib::Ruby::Gemspec.build!(__FILE__) do |gemspec|
   gemspec.summary     = "Gitcache for Ruby"
-  gemspec.description = "Gitcache mirrors Git repositories with a deduped pooled object store on top of Bitcache content-addressable storage."
+  gemspec.description = "Gitcache mirrors Git repositories into a deduped pooled object store on top of Bitcache content-addressable storage."
   gemspec.homepage    = "https://gitcache.dev"
   gemspec.metadata    = {
     :source_code_uri  => "https://github.com/artob/gitcache",

@@ -4,7 +4,7 @@
 [![Compatibility](https://img.shields.io/badge/typescript-5.4%2B-blue)](https://typescriptlang.org/docs/handbook/release-notes/typescript-5-4.html)
 [![Package on NPM](https://img.shields.io/npm/v/gitcache.js)](https://npmjs.com/package/gitcache.js)
 
-**Gitcache mirrors Git repositories with a deduped pooled object store on top of Bitcache content-addressable storage.**
+**Gitcache mirrors Git repositories into a deduped pooled object store on top of Bitcache content-addressable storage.**
 
 <sub>
 

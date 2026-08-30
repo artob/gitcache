@@ -5,7 +5,7 @@
 [![Package on Crates.io](https://img.shields.io/crates/v/gitcache)](https://crates.io/crates/gitcache)
 [![Documentation](https://img.shields.io/docsrs/gitcache?label=docs.rs)](https://docs.rs/gitcache)
 
-**Gitcache mirrors Git repositories with a deduped pooled object store on top of Bitcache content-addressable storage.**
+**Gitcache mirrors Git repositories into a deduped pooled object store on top of Bitcache content-addressable storage.**
 
 <sub>
 

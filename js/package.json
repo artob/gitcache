@@ -1,7 +1,7 @@
 {
   "name": "gitcache.js",
   "version": "0.0.0",
-  "description": "Gitcache mirrors Git repositories with a deduped pooled object store on top of Bitcache content-addressable storage.",
+  "description": "Gitcache mirrors Git repositories into a deduped pooled object store on top of Bitcache content-addressable storage.",
   "homepage": "https://gitcache.dev",
   "repository": {
     "type": "git",

@@ -4,7 +4,7 @@
 [![Compatibility](https://img.shields.io/badge/python-3.14%2B-blue)](https://endoflife.date/python)
 [![Package on PyPI](https://img.shields.io/pypi/v/gitcache)](https://pypi.org/project/gitcache)
 
-**Gitcache mirrors Git repositories with a deduped pooled object store on top of Bitcache content-addressable storage.**
+**Gitcache mirrors Git repositories into a deduped pooled object store on top of Bitcache content-addressable storage.**
 
 <sub>
 

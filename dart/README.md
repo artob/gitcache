@@ -5,7 +5,7 @@
 [![Package on Pub.dev](https://img.shields.io/pub/v/gitcache)](https://pub.dev/packages/gitcache)
 [![Documentation](https://img.shields.io/badge/docs-passing-green)](https://pub.dev/documentation/gitcache)
 
-**Gitcache mirrors Git repositories with a deduped pooled object store on top of Bitcache content-addressable storage.**
+**Gitcache mirrors Git repositories into a deduped pooled object store on top of Bitcache content-addressable storage.**
 
 <sub>
 

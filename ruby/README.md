@@ -5,7 +5,7 @@
 [![Package on RubyGems](https://img.shields.io/gem/v/gitcache.rb)](https://rubygems.org/gems/gitcache.rb)
 [![Documentation](https://img.shields.io/badge/rubydoc-latest-blue)](https://rubydoc.info/gems/gitcache.rb)
 
-**Gitcache mirrors Git repositories with a deduped pooled object store on top of Bitcache content-addressable storage.**
+**Gitcache mirrors Git repositories into a deduped pooled object store on top of Bitcache content-addressable storage.**
 
 <sub>
 

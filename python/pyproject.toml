@@ -7,7 +7,7 @@ build-backend = "uv_build"
 
 [project]
 name = "gitcache"
-description = "Gitcache mirrors Git repositories with a deduped pooled object store on top of Bitcache content-addressable storage."
+description = "Gitcache mirrors Git repositories into a deduped pooled object store on top of Bitcache content-addressable storage."
 readme = "README.md"
 authors = [{ name = "Arto Bendiken", email = "arto@bendiken.net" }]
 license = "Unlicense"

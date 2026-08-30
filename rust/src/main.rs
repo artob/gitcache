@@ -5,7 +5,7 @@ use clientele::{
     crates::clap::{Parser, Subcommand},
 };
 
-/// Gitcache mirrors Git repositories with a deduped pooled object store on top of Bitcache content-addressable storage.
+/// Gitcache mirrors Git repositories into a deduped pooled object store on top of Bitcache content-addressable storage.
 #[derive(Debug, Parser)]
 #[command(name = "Gitcache", long_about)]
 #[command(arg_required_else_help = true)]

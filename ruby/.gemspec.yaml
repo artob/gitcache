@@ -93,7 +93,7 @@ dependencies:
     - - "~>"
       - !ruby/object:Gem::Version
         version: '0.9'
-description: Gitcache mirrors Git repositories with a deduped pooled object store
+description: Gitcache mirrors Git repositories into a deduped pooled object store
   on top of Bitcache content-addressable storage.
 email:
 - arto@bendiken.net
