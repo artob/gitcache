@@ -1,0 +1,1 @@
+$ gitcache --help
