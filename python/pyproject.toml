@@ -31,7 +31,7 @@ classifiers = [
 ]
 
 [project.optional-dependencies]
-dev = ["distrib.sh>=0.0.0"]
+dev = ["distrib.sh>=0.0.2"]
 
 [project.urls]
 Homepage = "https://gitcache.dev"
